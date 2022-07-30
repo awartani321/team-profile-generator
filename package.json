@@ -1,0 +1,16 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "Team-Profile-Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.3"
+  }
+}
