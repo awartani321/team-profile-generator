@@ -24,3 +24,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 ### Github Repo 
 https://github.com/awartani321/team-profile-generator.git
 
+### Video Demonstration 
+
+https://www.youtube.com/watch?v=v1bqsYYdOwY
+
+### Sample HTML file 
+
+<img width="1440" alt="Screen Shot 2022-08-01 at 9 33 48 PM" src="https://user-images.githubusercontent.com/103685355/182272800-d2ccb475-453e-43eb-9152-2e2b8c178944.png">
