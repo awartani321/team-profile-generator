@@ -21,6 +21,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 * WHEN I decide to finish building my team
 * THEN I exit the application, and the HTML is generated
 
-### GITHUB REPO 
+### Github Repo 
 https://github.com/awartani321/team-profile-generator.git
 
